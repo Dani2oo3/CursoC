@@ -17,7 +17,7 @@ void tema12LibreriasEstandar();
 int main(void)
 {
     // Llamar a cada función de los temas
-    //tema1VariablesYTiposDatos();
+    tema1VariablesYTiposDatos();
     //tema2Operadores();
     //tema3EstructurasControl();
     //tema4Funciones();
