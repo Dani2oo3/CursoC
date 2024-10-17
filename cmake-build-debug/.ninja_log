@@ -1,0 +1,15 @@
+# ninja log v6
+40	183	7508812613112154	CMakeFiles/CursoC.dir/Tema3_EstructurasControl/main.c.obj	5e61c16d0b68fb2f
+29	202	7508812612996520	CMakeFiles/CursoC.dir/Tema2_Operadores/main.c.obj	9c5b05172721260a
+7	125	7508861868556399	CMakeFiles/CursoC.dir/Tema1_Variables_y_TiposDeDatos/main.c.obj	3b3acf71b32497c3
+37	494	7508866084967439	build.ninja	5e04562ba1ffc42d
+39	154	7508857362113203	CMakeFiles/CursoC.dir/Tema7_Punteros/main.c.obj	c32acbe4f4fcee39
+125	277	7508861869731742	CursoC.exe	9197be4ebc7278fd
+15	123	7508861868636398	CMakeFiles/CursoC.dir/main.c.obj	b4f8de8b9db87a5a
+51	216	7508812613222679	CMakeFiles/CursoC.dir/Tema4_Funciones/main.c.obj	f800e3a88a2c7b59
+41	207	7508856547382533	CMakeFiles/CursoC.dir/Tema5_Arrays/main.c.obj	f6274fe2dcd5855d
+44	152	7508858060440464	CMakeFiles/CursoC.dir/Tema8_Estructuras/main.c.obj	ced3e021842652c7
+36	131	7508857046751773	CMakeFiles/CursoC.dir/Tema6_CadenaCaracteres/main.c.obj	6ececbdab011e0a2
+37	187	7508860367408799	CMakeFiles/CursoC.dir/Tema11_Recursividad/main.c.obj	af462689e9d9df3d
+36	153	7508859343807692	CMakeFiles/CursoC.dir/Tema10_MemoriaDinamica/main.c.obj	4a9eac941d567ff0
+50	222	7508860367539144	CMakeFiles/CursoC.dir/Tema12_LibreriasEstandar/main.c.obj	d3268bfd52acc4b0

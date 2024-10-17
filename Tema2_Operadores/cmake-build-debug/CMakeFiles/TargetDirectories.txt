@@ -1,0 +1,3 @@
+C:/Users/danie/OneDrive/Escritorio/CursoC/Tema2_Operadores/cmake-build-debug/CMakeFiles/Tema2_Operadores.dir
+C:/Users/danie/OneDrive/Escritorio/CursoC/Tema2_Operadores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danie/OneDrive/Escritorio/CursoC/Tema2_Operadores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
